@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+gsm_templates/
+results/
+*.mp4
+*.m4a
